@@ -1,0 +1,14 @@
+layout_spectrum: 0.9829787
+typography_spectrum: 0.7489362
+color:
+  saturation: 0.5297872
+  brandStrength: 0.8212766
+  lightness: 0.1594202
+  brandColors:
+    - '#FEFEFE'
+    - '#BEB4AA'
+    - '#457080'
+    - '#21434F'
+    - '#0AAED7'
+  rhythmicContrast: 0.9106383
+name: Mamas Little Paua
